@@ -1,0 +1,39 @@
+# Site settings
+name: Sed
+title: Sed| Software Developer
+description: Software developer focused on building beautiful interfaces &amp; developing distributed, microservices-based applications with RESTful APIs
+url: https://sed.github.io/
+baseurl: ''
+email: benzidsedki@gmail.com
+cover: https://sed.github.io/img/og.png
+logo: https://sed.github.io/img/emojis/technologist.png
+resume: https://sed.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:benzidsedki@gmail.com
+  - title: github
+    url: https://github.com/Sed9yDataBank
+  - title: linkedin
+    url: https://www.linkedin.com/in/sed-bz
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

@@ -1,0 +1,11 @@
+- name: Katsue IT Lab
+  url: https://github.com/Sed9yDataBank/Katsue-IT-Lab
+  code: https://github.com/Sed9yDataBank/Katsue-IT-Lab
+  description: Katsue is a web application,  a business profile website for Katsue Information Technology Lab in Netherlands. the web application gives introduction and an overview about the company, the services it offers and its job opportunities. The application is supported with an admin panel to manage staff information, automatically edit content in many sections of the app.
+  used:
+    - thing: Spring Boot
+    - thing: Angular
+    - thing: SendGrid
+    - thing: AWS
+    - thing: PostgreSQL
+

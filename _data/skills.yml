@@ -1,0 +1,41 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: Java
+  - item: Python
+  - item: PHP
+  - item: SQL
+  - item: C
+  - item: CSS/Sass
+  - item: HTML
+
+
+frameworks:
+  - item: Spring Boot
+  - item: React JS
+  - item: React-Admin
+  - item: Angular
+  
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: AWS
+  - item: Stripe
+  - item: Twilio
+  - item: SendGrid
+  - item: Firebase
+  - item: JWT
+  - item: Chrome DevTools
+  - item: Kajabi
+  - item: WordPress
+  - item: Postman
+  - item: PostgreSQL
+  - item: MySQL
+
+design:
+  - item: Sketch
+  - item: Figma
+  - item: Adobe XD
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
