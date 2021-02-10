@@ -2,6 +2,7 @@ languages:
   - item: JavaScript (ES6)
   - item: TypeScript
   - item: Java
+  - item: Go
   - item: Python
   - item: PHP
   - item: SQL
@@ -12,6 +13,7 @@ languages:
 
 frameworks:
   - item: Spring Boot
+  - item: Mux
   - item: React JS
   - item: React-Admin
   - item: Angular
@@ -31,6 +33,7 @@ tools:
   - item: Postman
   - item: PostgreSQL
   - item: MySQL
+  - item: MongoDB
 
 design:
   - item: Sketch

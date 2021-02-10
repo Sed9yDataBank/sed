@@ -1,3 +1,29 @@
+- name: The Tesla Owner Club
+  url: https://github.com/Sed9yDataBank/tesla
+  code: https://github.com/Sed9yDataBank/tesla
+  description: an app for community of Tesla owners committed to advancing Tesla mission. Club members help advocate for Tesla by educating new and prospective owners, sharing tips and tricks, flexing their cars and doing Q&A.
+  used:
+    - thing: Go
+    - thing: Mux
+    - thing: React JS
+
+- name: YouTube Transcript Generator Bookmarklet
+  url: https://github.com/Sed9yDataBank/youtube-transcript
+  code: https://github.com/Sed9yDataBank/youtube-transcript
+  description: YouTube transcriber bookmarklet, when you’re viewing a YouTube video, you can simply click it to view the transcription of the video. You will be able to just quickly read through the text version of any YouTube video and they won't have to sit around for eight to ten minutes just to see what somebody has to say.
+  used:
+    - thing: PHP
+    - thing: Youtube Data API
+    - thing: JavaScript
+
+- name: Sendr
+  url: 
+  code: 
+  description: Sendr helps webshops and warehouses to become more efficient when managing orders. Build on a lot of practical experience with pick and pack own orders at our warehouse. Beautiful, intutive interface for webshop with a wish to optimize their order management processes.
+  used:
+    - thing: Angular
+    - thing: Firebase
+
 - name: Katsue IT Lab
   url: https://github.com/Sed9yDataBank/Katsue-IT-Lab
   code: https://github.com/Sed9yDataBank/Katsue-IT-Lab
@@ -9,3 +35,63 @@
     - thing: AWS
     - thing: PostgreSQL
 
+- name: Corona Spy
+  url: https://github.com/Sed9yDataBank/Corona-Spy
+  code: https://github.com/Sed9yDataBank/Corona-Spy
+  description: Corona Spy gives real time, automated and up to date data about the corona virus statistics. Our data is trusted from world wide universities and organizations , Johns Hopkins University Center For Systems Science and Engineering (JHU CSSE). Also, supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL). With our app you can send messages (SMS) to any phone nmber in your country to make everyone aware about the spreading of the virus using our programmable SMS form integrated from Twilio API packages.
+  used:
+    - thing: Spring Boot
+    - thing: Twilio API
+    - thing: Thymeleaf
+
+- name: Kanbaned Chain Liana Tasks
+  url: https://github.com/Sed9yDataBank/Kanbaned-Chain-Liana-Tasks
+  code: https://github.com/Sed9yDataBank/Kanbaned-Chain-Liana-Tasks
+  description: Kanbaned Chain Liana Tasks (KCLTs) is a project management application, to organize your tasks in kanban boards. It give you a flexible, and comfortable visual way to manage your projects and never forget about your goals. With our web application you can manage groupe projects by inviting other users to your boars. With KCLTs you can save 24000+ hours a year in managing your tasks.
+  used:
+    - thing: Spring Boot
+    - thing: Angular
+    - thing: Bootstrap
+    - thing: SendGrid
+    - thing: AWS
+    - thing: JWT
+    - thing: PostgreSQL
+
+- name: Analytics -19
+  url: https://github.com/Sed9yDataBank/Analytics-19
+  code: https://github.com/Sed9yDataBank/Analytics-19
+  description: Dashboard That Holds Data, Statistics Analytics About Corona Virus All Around The World. With this app you can view charts, boards for real numbers of the infection rate across the world.
+  used:
+    - thing: Angular
+    - thing: Bootstrap
+
+- name: WReelRetail
+  url: https://github.com/Sed9yDataBank/WReelRetail-Ecommerce
+  code: https://github.com/Sed9yDataBank/WReelRetail-Ecommerce
+  description: WReelRetail is an multivendor web application that has many sections such as clothing, book, grocery and much more. With our web application you can shop online with our secure online payment system.
+  used:
+    - thing: Spring Boot
+    - thing: Angular
+    - thing: Bootstrap
+    - thing: SendGrid
+    - thing: Stripe
+    - thing: AWS
+    - thing: JWT
+    - thing: PostgreSQL
+
+- name: Gemini Chat
+  url: https://github.com/Sed9yDataBank/Gemini-Chat
+  code: https://github.com/Sed9yDataBank/Gemini-Chat
+  description: Gemini Chat is a chat application, you can have real time talks with users all over the world free of charge, no signup needed.
+  used:
+    - thing: Spring Boot
+    - thing: Web Sockets
+    - thing: Thymeleaf
+
+
+- name: Bell Chess GCC
+  url: https://github.com/Sed9yDataBank/Bell-Chess-GCC
+  code: https://github.com/Sed9yDataBank/Bell-Chess-GCC
+  description: A chess board engine with best moves evaluation.
+  used:
+    - thing: C
