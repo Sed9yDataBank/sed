@@ -1,12 +1,12 @@
 # Site settings
 name: Sed
-title: Sed| Software Developer
+title: Sed | Software Developer
 description: Software developer focused on building beautiful interfaces &amp; developing distributed, microservices-based applications with RESTful APIs
 
 baseurl: /sed
 url: https://sed9ydatabank.github.io/sed/
 email: benzidsedki@gmail.com
-cover: https://sed9ydatabank.github.io/sed/img/og.png
+cover: https://sed9ydatabank.github.io/sed/img/ogg.png
 logo: https://sed9ydatabank.github.io/sed/img/emojis/technologist.png
 resume: https://sed9ydatabank.github.io/sed/resume.pdf
 social:
